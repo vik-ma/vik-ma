@@ -14,6 +14,7 @@
 <img title="Next.js" alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img title="PostgreSQL" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img title="GraphQL" alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white" />
+<img title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 <img title="Docker" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
 <img title="Git" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" />
 </span>
