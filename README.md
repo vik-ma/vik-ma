@@ -1,7 +1,7 @@
 # Greetings
 
 # ***[Visit My Portfolio Website!](https://vik-ma.vercel.app/)***
-My Portfolio Website provides the most comprehensive overview of my finished projects!
+My portfolio website is the one-stop-shop to peruse my programming creations, featuring project descriptions, tech stacks, pictures and links to live websites!
 
 ## Languages and Tools
 <span>
